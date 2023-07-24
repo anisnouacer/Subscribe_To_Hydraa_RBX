@@ -1,0 +1,2 @@
+local Key_System = loadstring(game:HttpGet("https://raw.githubusercontent.com/anisnouacer/Subscribe_To_Hydraa_RBX/main/Key-System.lua"))()
+local Instance = Key_System.Get_Instance("I Know Hydraa_RBX Its Amazing And OP!")
